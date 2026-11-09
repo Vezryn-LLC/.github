@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1400" height="400" viewBox="0 0 1400 400" role="img" aria-labelledby="title desc">
+<title id="title">Vezryn</title>
+<desc id="desc">AI engineering, built around people.</desc>
+<defs><linearGradient id="bg" x1="0" y1="1" x2="1" y2="0"><stop stop-color="#06121b"/><stop offset="1" stop-color="#162936"/></linearGradient></defs>
+<rect width="1400" height="400" rx="16" fill="url(#bg)"/>
+<g opacity="0.12" fill="none" stroke="#c6d0d6" stroke-width="1"><path d="M1000 0v400M1100 0v400M1200 0v400M1300 0v400M900 100h500M900 200h500M900 300h500"/></g>
+<g transform="translate(70 73) scale(.7) translate(-685 -194)"><path id='Approved-V' d='M685,194 H704 L730,238 L756,194 H775 L738,256 H721 Z' fill='#ffffff' stroke='none' stroke-width='0'/><path id='Approved-E' d='M799,194 H866 V206 H807 Z M799,220 H856 V231 H814 V245 H866 V256 H799 Z' fill='#ffffff' stroke='none' stroke-width='0'/><path id='Approved-Z' d='M895,194 H966 V205 L918,245 H966 V256 H894 V244 C918.666667,231.666667,922.333333,219.333333,944,207 H895 Z' fill='#ffffff' stroke='none' stroke-width='0'/><path id='Approved-R' d='M993,194 H1046 C1074,194,1074,227,1050,234 L1069,256 H1049 L1032,234 H1008 V256 H993 V222 H1043 C1055,222,1055,207,1043,207 H1002 Z' fill='#ffffff' stroke='none' stroke-width='0'/><path id='Approved-Y' d='M1084,194 H1105 L1124.644116,219.494902 L1148,194 H1167 L1132.632483,231 V256 H1116.632483 V232 Z' fill='#ffffff' stroke='none' stroke-width='0'/><path id='Approved-N' d='M1187,194 H1202 L1248,237 V194 H1263 V256 H1248 L1202,213 V256 H1187 Z' fill='#ffffff' stroke='none' stroke-width='0'/></g>
+<text x="70" y="211" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="#ffffff">AI engineering,</text>
+<text x="70" y="270" font-family="Arial, Helvetica, sans-serif" font-size="48" fill="#ffffff">built around people.</text>
+<text x="72" y="339" font-family="Arial, Helvetica, sans-serif" font-size="15" letter-spacing="3" fill="#b7c4cd">TOOLS / SOFTWARE / SYSTEMS</text>
+</svg>
