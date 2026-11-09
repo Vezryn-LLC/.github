@@ -8,7 +8,7 @@
   <a href="https://vezryn.com/">Website</a> ·
   <a href="https://vezryn.com/products/">Products</a> ·
   <a href="https://www.linkedin.com/company/vezryn/">LinkedIn</a> ·
-  <a href="mailto:hello@vezryn.com">Get in touch</a>
+  <a href="https://vezryn.com/#contact">Get in touch</a>
 </p>
 
 ## Making AI useful
@@ -36,4 +36,4 @@ Usability, reliability, cost, privacy, security, and adaptability shape the way 
 
 ---
 
-**What do you want to accomplish?** [Start a conversation →](mailto:hello@vezryn.com)
+**What do you want to accomplish?** [Start a conversation →](https://vezryn.com/#contact)
