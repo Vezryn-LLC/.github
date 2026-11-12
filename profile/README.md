@@ -23,8 +23,13 @@ A personal AI workspace that brings conversations, context, and connected tools 
 **[Wednesday](https://vezryn.com/products/)** · In development  
 An engineering workspace for AI-assisted development, designed to help people direct coding sessions, coordinate tasks, and follow the work in one place.
 
-**Graph**  
-An AI engineering orchestration system that coordinates development tasks, coding agents, and delivery workflows. Already powering our internal engineering.
+**[Graph Community](https://github.com/Vezryn-LLC/graph-community)** · Open source · Apache-2.0
+
+A headless engineering coordinator that turns ready issues in explicitly enrolled GitHub repositories into ordinary pull requests using native Codex workers. Bring your own GitHub access and Codex tools; see the quickstart for requirements and platform limits.
+
+[Explore the source](https://github.com/Vezryn-LLC/graph-community) · [Try the quickstart](https://github.com/Vezryn-LLC/graph-community/blob/main/QUICKSTART.md) · [Graph product & workflow film](https://vezryn.com/products/graph/#film)
+
+Graph Community is the public, headless edition. Vezryn's private Graph features and metrics are separate and are not included. The workflow film uses illustrative interface footage to explain the flow.
 
 ### How we work
 
